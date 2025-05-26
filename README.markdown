@@ -164,6 +164,3 @@ This project is for educational/demo purposes. Feel free to fork and adapt for y
 
 ## Author
 Ghanshyam Mishra
-
-## Need more help?
-Open an issue or ask for further customization!
